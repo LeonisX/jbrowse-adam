@@ -1,3 +1,5 @@
+**This is experimental branch for ADAM 0.17.0. It works. Authors of library broken S3 bucket read/write :(**
+
 # Introduction
 Project `jbrowse-adam` implements sample integration between [JBrowse](http://jbrowse.org/ "JBrowse") and [ADAM file formats](https://github.com/bigdatagenomics/adam "ADAM").
 
